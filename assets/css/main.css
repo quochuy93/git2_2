@@ -46,3 +46,12 @@ body {
   width: 100%;
   background-color: blue;
 }
+.footer .button {
+  padding: 1rem 3rem;
+  background-color: black;
+  color: white;
+}
+.footer .button:hover {
+  cursor: pointer;
+  opacity: 50%;
+}
