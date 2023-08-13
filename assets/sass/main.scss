@@ -42,6 +42,15 @@ body {
 .footer{height: 10rem;
     width: 100%;
     background-color: blue;
+    .button{
+        padding: 1rem 3rem;
+        background-color: black;
+        color: white;
+        &:hover{
+            cursor: pointer;
+            opacity: 50%;
+        }
+    }
 
 }
 
